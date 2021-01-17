@@ -103,3 +103,11 @@ An ID is a UNIQUE indentifier ,used once on a page
 A class is an identifier of an element which can be used multiple times on a page
 
 Both are used for JSSS and CSS
+
+=====================================
+
+
+Todo : Adding CSS
+
+=====================================
+TODO 8:- Targeting Elements with CSS
